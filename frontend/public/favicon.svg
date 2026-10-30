@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#faf8f5" />
+  <rect x="1" y="1" width="62" height="62" rx="13" stroke="#e7e2da" stroke-width="1.5" />
+  
+  <!-- Architectural Portal / Monogram Emblem -->
+  <!-- Outer Arch/Lintel Structure -->
+  <path d="M18 46V23C18 19.134 24.268 16 32 16C39.732 16 46 19.134 46 23V46" stroke="#b89758" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Horizontal Base Line / Plinth -->
+  <line x1="14" y1="46" x2="50" y2="46" stroke="#b89758" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Transom / Header Beam -->
+  <line x1="18" y1="28" x2="46" y2="28" stroke="#b89758" stroke-width="1.25" stroke-linecap="round"/>
+  
+  <!-- Center Axis / Stylized Crest Pillar -->
+  <line x1="32" y1="20" x2="32" y2="46" stroke="#b89758" stroke-width="1.5" stroke-linecap="round"/>
+  
+  <!-- Keystone / Diamond Accent -->
+  <path d="M32 13L34.5 16L32 19L29.5 16Z" fill="#b89758" />
+</svg>
