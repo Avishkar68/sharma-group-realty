@@ -1,20 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
-  <rect width="64" height="64" rx="14" fill="#faf8f5" />
-  <rect x="1" y="1" width="62" height="62" rx="13" stroke="#e7e2da" stroke-width="1.5" />
-  
-  <!-- Architectural Portal / Monogram Emblem -->
-  <!-- Outer Arch/Lintel Structure -->
-  <path d="M18 46V23C18 19.134 24.268 16 32 16C39.732 16 46 19.134 46 23V46" stroke="#b89758" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  
-  <!-- Horizontal Base Line / Plinth -->
-  <line x1="14" y1="46" x2="50" y2="46" stroke="#b89758" stroke-width="2" stroke-linecap="round"/>
-  
-  <!-- Transom / Header Beam -->
-  <line x1="18" y1="28" x2="46" y2="28" stroke="#b89758" stroke-width="1.25" stroke-linecap="round"/>
-  
-  <!-- Center Axis / Stylized Crest Pillar -->
-  <line x1="32" y1="20" x2="32" y2="46" stroke="#b89758" stroke-width="1.5" stroke-linecap="round"/>
-  
-  <!-- Keystone / Diamond Accent -->
-  <path d="M32 13L34.5 16L32 19L29.5 16Z" fill="#b89758" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <path d="M63,20h2v1h-2z M62,21h4v1h-4z M61,22h6v1h-6z M60,23h8v1h-8z M59,24h10v1h-10z M58,25h12v1h-12z M57,26h14v1h-14z M56,27h16v34h-16z M51,34h1v1h-1z M75,34h1v1h-1z M50,35h2v1h-2z M75,35h2v1h-2z M49,36h3v1h-3z M75,36h3v1h-3z M48,37h4v1h-4z M75,37h4v1h-4z M47,38h5v1h-5z M75,38h6v1h-6z M46,39h6v1h-6z M75,39h7v1h-7z M45,40h7v1h-7z M75,40h8v1h-8z M44,41h8v1h-8z M75,41h9v1h-9z M43,42h9v1h-9z M75,42h10v1h-10z M41,43h11v1h-11z M75,43h11v1h-11z M40,44h12v1h-12z M75,44h12v1h-12z M39,45h13v1h-13z M75,45h13v1h-13z M38,46h14v1h-14z M75,46h15v1h-15z M37,47h15v1h-15z M75,47h16v1h-16z M36,48h9v1h-9z M46,48h6v9h-6z M75,48h7v45h-7z M83,48h9v1h-9z M35,49h8v1h-8z M84,49h9v1h-9z M34,50h8v1h-8z M85,50h9v1h-9z M33,51h8v1h-8z M87,51h8v1h-8z M32,52h8v1h-8z M88,52h8v1h-8z M32,53h7v16h-7z M89,53h7v8h-7z M46,57h4v1h-4z M46,58h2v1h-2z M46,59h1v1h-1z M56,61h7v1h-7z M65,61h7v1h-7z M90,61h6v1h-6z M56,62h6v1h-6z M66,62h6v1h-6z M92,62h4v1h-4z M48,63h1v1h-1z M56,63h5v1h-5z M67,63h5v1h-5z M93,63h3v1h-3z M46,64h4v1h-4z M56,64h4v1h-4z M68,64h4v1h-4z M95,64h1v1h-1z M44,65h8v1h-8z M56,65h3v1h-3z M69,65h3v1h-3z M85,65h2v1h-2z M43,66h10v1h-10z M56,66h2v1h-2z M70,66h2v1h-2z M85,66h4v1h-4z M41,67h12v1h-12z M56,67h1v1h-1z M71,67h1v1h-1z M85,67h5v1h-5z M40,68h13v1h-13z M55,68h1v1h-1z M85,68h7v1h-7z M32,69h21v3h-21z M58,69h5v5h-5z M65,69h5v5h-5z M85,69h8v1h-8z M85,70h10v1h-10z M98,70h1v1h-1z M27,71h1v1h-1z M85,71h11v2h-11z M99,71h2v1h-2z M26,72h1v1h-1z M32,72h13v1h-13z M46,72h7v21h-7z M100,72h2v1h-2z M24,73h2v1h-2z M32,73h12v1h-12z M86,73h10v1h-10z M101,73h2v1h-2z M23,74h3v1h-3z M33,74h9v1h-9z M88,74h8v1h-8z M102,74h2v1h-2z M22,75h3v1h-3z M35,75h6v1h-6z M89,75h7v15h-7z M103,75h2v1h-2z M21,76h3v2h-3z M37,76h2v1h-2z M58,76h5v5h-5z M65,76h5v5h-5z M103,76h3v1h-3z M104,77h3v1h-3z M20,78h3v1h-3z M104,78h4v1h-4z M19,79h4v2h-4z M105,79h3v1h-3z M32,80h1v1h-1z M105,80h4v2h-4z M18,81h5v1h-5z M32,81h3v1h-3z M18,82h4v2h-4z M32,82h4v1h-4z M105,82h5v5h-5z M32,83h6v1h-6z M17,84h6v3h-6z M32,84h7v6h-7z M57,85h14v20h-14z M17,87h7v2h-7z M104,87h6v2h-6z M18,89h7v2h-7z M103,89h7v2h-7z M32,90h9v1h-9z M87,90h9v1h-9z M18,91h8v1h-8z M32,91h11v1h-11z M86,91h10v1h-10z M102,91h7v1h-7z M19,92h8v1h-8z M32,92h12v1h-12z M84,92h11v1h-11z M101,92h8v1h-8z M19,93h9v1h-9z M34,93h19v1h-19z M75,93h19v1h-19z M100,93h9v1h-9z M20,94h9v1h-9z M35,94h18v1h-18z M75,94h17v1h-17z M99,94h9v1h-9z M21,95h9v1h-9z M37,95h16v1h-16z M75,95h16v1h-16z M98,95h9v1h-9z M21,96h10v1h-10z M38,96h15v1h-15z M75,96h14v1h-14z M97,96h9v1h-9z M22,97h11v1h-11z M40,97h13v1h-13z M75,97h12v1h-12z M95,97h11v1h-11z M23,98h11v1h-11z M42,98h11v1h-11z M75,98h10v1h-10z M94,98h11v1h-11z M24,99h12v1h-12z M45,99h8v1h-8z M75,99h7v1h-7z M92,99h12v1h-12z M25,100h13v1h-13z M48,100h5v1h-5z M75,100h4v1h-4z M90,100h12v1h-12z M27,101h13v1h-13z M52,101h1v1h-1z M88,101h13v1h-13z M28,102h15v1h-15z M85,102h15v1h-15z M29,103h17v1h-17z M82,103h16v1h-16z M31,104h20v1h-20z M77,104h20v1h-20z M33,105h62v1h-62z M35,106h57v1h-57z M38,107h52v1h-52z M40,108h47v1h-47z M44,109h39v1h-39z M48,110h31v1h-31z M56,111h15v1h-15z" fill="#c29541"/>
 </svg>

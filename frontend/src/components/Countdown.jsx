@@ -87,9 +87,9 @@ export default function Countdown() {
           transition={{ duration: 0.6, delay: 0.1, ease: 'easeOut' }}
           className="mb-8 sm:mb-12"
         >
-          <span className="text-xs sm:text-[13px] font-semibold tracking-[0.25em] text-[#9b7a3e] uppercase">
+          <h2 className="text-xs sm:text-[13px] font-semibold tracking-[0.25em] text-[#9b7a3e] uppercase m-0">
             Our Official Website Goes Live In
-          </span>
+          </h2>
         </motion.div>
 
         {/* Live Countdown Display */}

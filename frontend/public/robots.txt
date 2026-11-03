@@ -1,0 +1,9 @@
+# Robots.txt for Sharma Group Realty
+# Domain: https://www.sharmagrouprealty.in/
+
+User-agent: *
+Allow: /
+
+# Sitemap reference for search engine crawlers
+Sitemap: https://www.sharmagrouprealty.in/sitemap.xml
+

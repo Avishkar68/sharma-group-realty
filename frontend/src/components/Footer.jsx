@@ -9,9 +9,9 @@ export default function Footer() {
           &copy; {CURRENT_YEAR} Sharma Group Realty. All rights reserved.
         </p>
 
-        {/* Domain name */}
+        {/* Official Domain Link */}
         <a
-          href="https://sharmagrouprealty.in"
+          href="https://www.sharmagrouprealty.in/"
           className="text-xs font-medium tracking-[0.16em] text-[#57534e] hover:text-[#9b7a3e] transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-[#b89758]"
         >
           sharmagrouprealty.in
